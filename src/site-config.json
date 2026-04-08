@@ -1,0 +1,554 @@
+{
+  "business": {
+    "name": "Mr. Painterman",
+    "phone": "+15029745533",
+    "category": "house painter",
+    "city": "Louisville",
+    "state": "KY"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Louisville's Painting Pros",
+      "heroSubline": "Transforming homes with quality and precision. Trusted by Louisville homeowners for over a decade.",
+      "aboutTitle": "Decades of Painting Expertise in Louisville",
+      "aboutText": [
+        "Mr. Painterman started as a small, family-run operation right here in Louisville. We saw a need for reliable, high-quality painting services that understood the unique challenges of our local housing stock, from historic homes in Old Louisville to modern builds in the suburbs.",
+        "Our approach is simple: meticulous preparation, premium materials, and a dedication to exceeding expectations. We believe in clear communication, transparent pricing, and treating every project as if it were our own home. We're not just painters; we're craftsmen.",
+        "We're proud to be a part of the Louisville community. We support local charities and strive to create lasting relationships with our clients. When you choose Mr. Painterman, you're choosing a team that cares about your home and your neighborhood."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Craftsmen",
+          "description": "Our team brings years of expertise to every project, ensuring flawless results."
+        },
+        {
+          "title": "Premium Materials",
+          "description": "We use only the highest quality paints and materials for lasting beauty and durability."
+        },
+        {
+          "title": "Detailed Preparation",
+          "description": "Proper preparation is key to a perfect finish. We meticulously prep surfaces for optimal adhesion."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand Louisville's unique climate and housing styles, providing tailored solutions."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Home?",
+      "ctaSubline": "Get a free, no-obligation quote from Louisville's trusted painting professionals today."
+    },
+    "services": [
+      {
+        "slug": "interior-painting",
+        "name": "Interior Painting",
+        "shortDescription": "Transform your living spaces with expert interior painting services.",
+        "description": "Freshening up your interior is more than just applying a new coat of paint; it's about creating an environment that reflects your style and enhances your well-being. Mr. Painterman's interior painting service in Louisville delivers just that. We start with a thorough assessment of your walls, addressing any imperfections like cracks, holes, or water damage common in Louisville's older homes. Our team meticulously prepares each surface, ensuring a smooth and even canvas for the paint. We use premium-quality paints that are durable, washable, and resistant to mold and mildew, ideal for Kentucky's humid climate. From color consultation to the final brushstroke, we work closely with you to achieve the perfect look and feel for your home. We take great care to protect your furniture and belongings, and we leave your home spotless after the job is done. We understand the nuances of painting plaster walls common in neighborhoods like the Highlands and Old Louisville, ensuring a flawless finish every time.",
+        "process": [
+          "Step 1: Consultation & Color Selection",
+          "Step 2: Surface Preparation (cleaning, patching, priming)",
+          "Step 3: Careful Masking & Protection",
+          "Step 4: Application of Premium Paints",
+          "Step 5: Final Inspection & Clean-up"
+        ],
+        "benefits": [
+          "Enhanced Home Aesthetics",
+          "Increased Property Value",
+          "Improved Air Quality (with low-VOC paints)",
+          "Protection Against Moisture Damage"
+        ],
+        "faq": [
+          {
+            "question": "How long does interior painting typically take?",
+            "answer": "The duration depends on the size and complexity of the project. A single room might take 1-2 days, while an entire house could take a week or more. We'll provide a detailed timeline during the consultation."
+          },
+          {
+            "question": "Do I need to move all my furniture?",
+            "answer": "We ask that you remove small items and valuables. We'll carefully cover and protect all remaining furniture and flooring before we begin painting."
+          },
+          {
+            "question": "What type of paint do you use?",
+            "answer": "We use only premium-quality paints from trusted brands, known for their durability, color retention, and low VOC emissions. We can recommend specific types and finishes based on your needs and preferences."
+          }
+        ]
+      },
+      {
+        "slug": "exterior-painting",
+        "name": "Exterior Painting",
+        "shortDescription": "Protect and beautify your home with our professional exterior painting services.",
+        "description": "Louisville's weather can be tough on exterior paint, from the blistering summer sun to the freezing winter temperatures. Mr. Painterman's exterior painting service is designed to withstand these challenges and keep your home looking its best for years to come. We begin with a thorough power wash to remove dirt, mildew, and loose paint. We then carefully prepare the surfaces, repairing any cracks, peeling paint, or damaged wood. We use high-quality exterior paints that are specifically formulated to resist fading, cracking, and peeling. Our experienced painters apply multiple coats for maximum protection and a flawless finish. We pay special attention to detail, ensuring that all trim, doors, and windows are properly painted. We understand the common issues faced by Louisville homeowners, such as limestone foundation staining and siding damage from spring storms. We offer specialized solutions to address these problems and protect your investment. Whether you live in a historic Victorian in Old Louisville or a modern home in St. Matthews, we have the expertise to handle any exterior painting project.",
+        "process": [
+          "Step 1: Thorough Power Washing",
+          "Step 2: Surface Preparation & Repairs",
+          "Step 3: Priming for Optimal Adhesion",
+          "Step 4: Application of Weather-Resistant Paints",
+          "Step 5: Detailed Trim & Accent Painting"
+        ],
+        "benefits": [
+          "Enhanced Curb Appeal",
+          "Protection Against Weather Damage",
+          "Increased Property Value",
+          "Prevention of Wood Rot and Decay"
+        ],
+        "faq": [
+          {
+            "question": "How often should I repaint my house's exterior?",
+            "answer": "Generally, you should repaint every 5-10 years, depending on the type of siding, the quality of the previous paint job, and the local weather conditions. Homes exposed to direct sunlight or harsh weather may need to be repainted more frequently."
+          },
+          {
+            "question": "Do you offer color consultations for exterior painting?",
+            "answer": "Yes, we offer color consultations to help you choose the perfect colors for your home's exterior. We can provide samples and renderings to help you visualize the final result."
+          },
+          {
+            "question": "Are you licensed and insured?",
+            "answer": "Yes, Mr. Painterman is fully licensed and insured in Louisville, KY. This protects you and your property in case of any accidents or damages during the project."
+          }
+        ]
+      },
+      {
+        "slug": "cabinet-refinishing",
+        "name": "Cabinet Refinishing",
+        "shortDescription": "Give your kitchen or bathroom a fresh new look with our cabinet refinishing services.",
+        "description": "Cabinet refinishing is a cost-effective way to update your kitchen or bathroom without the expense of replacing your cabinets. Mr. Painterman's cabinet refinishing service in Louisville can transform your outdated cabinets into a stylish and modern focal point. We start by thoroughly cleaning and degreasing your cabinets. We then sand them down to create a smooth surface for the new finish. We can apply a variety of finishes, including paint, stain, and clear coat. We use only high-quality products that are durable and resistant to scratches and stains. Our experienced craftsmen pay close attention to detail, ensuring a flawless finish that will last for years to come. We can also replace hardware, such as knobs and pulls, to further enhance the look of your cabinets. We understand the unique challenges of refinishing cabinets in Louisville's older homes, such as dealing with lead paint and uneven surfaces. We take all necessary precautions to ensure a safe and successful refinishing project.",
+        "process": [
+          "Step 1: Thorough Cleaning & Degreasing",
+          "Step 2: Sanding & Surface Preparation",
+          "Step 3: Application of Primer",
+          "Step 4: Painting or Staining",
+          "Step 5: Protective Topcoat Application"
+        ],
+        "benefits": [
+          "Cost-Effective Kitchen Update",
+          "Increased Home Value",
+          "Customized Look & Feel",
+          "Eco-Friendly Alternative to Replacement"
+        ],
+        "faq": [
+          {
+            "question": "How long does cabinet refinishing take?",
+            "answer": "Cabinet refinishing typically takes 3-5 days, depending on the size and complexity of the project. We'll provide a more accurate timeline during the initial consultation."
+          },
+          {
+            "question": "Can you match my existing cabinet color?",
+            "answer": "Yes, we can match virtually any color. We use advanced color-matching technology to ensure a perfect match."
+          },
+          {
+            "question": "Do I need to empty my cabinets?",
+            "answer": "Yes, we ask that you empty your cabinets before we begin the refinishing process. This will allow us to properly clean and prepare the surfaces."
+          }
+        ]
+      },
+      {
+        "slug": "drywall-repair",
+        "name": "Drywall Repair",
+        "shortDescription": "Restore your walls to their original condition with our expert drywall repair services.",
+        "description": "From minor dings and dents to major holes and water damage, Mr. Painterman's drywall repair service in Louisville can restore your walls to their original condition. We start by assessing the damage and determining the best course of action. We then carefully repair the drywall, using high-quality materials and techniques. We feather the edges of the repair to create a seamless transition. We then prime and paint the repaired area to match the surrounding wall. Our experienced craftsmen pay close attention to detail, ensuring a flawless repair that is virtually invisible. We understand the common causes of drywall damage in Louisville homes, such as foundation settling, water leaks, and accidental impacts. We offer specialized solutions to address these problems and prevent future damage. We're equipped to handle any drywall repair project, from small patches to large-scale renovations.",
+        "process": [
+          "Step 1: Damage Assessment",
+          "Step 2: Cutting & Patching Damaged Drywall",
+          "Step 3: Taping & Mudding Seams",
+          "Step 4: Sanding for a Smooth Finish",
+          "Step 5: Priming & Painting"
+        ],
+        "benefits": [
+          "Restored Wall Integrity",
+          "Improved Home Aesthetics",
+          "Prevention of Further Damage",
+          "Increased Property Value"
+        ],
+        "faq": [
+          {
+            "question": "How much does drywall repair cost?",
+            "answer": "The cost of drywall repair depends on the size and complexity of the damage. We offer free estimates, so you can get an accurate price before we begin the work."
+          },
+          {
+            "question": "Can you match the existing texture of my walls?",
+            "answer": "Yes, we have the expertise to match virtually any texture. We use a variety of techniques to create a seamless blend with the surrounding wall."
+          },
+          {
+            "question": "How long does drywall repair take?",
+            "answer": "Drywall repair typically takes 1-3 days, depending on the size and complexity of the damage. We'll provide a more accurate timeline during the initial assessment."
+          }
+        ]
+      },
+      {
+        "slug": "deck-staining-sealing",
+        "name": "Deck Staining & Sealing",
+        "shortDescription": "Protect and enhance your deck with our professional staining and sealing services.",
+        "description": "Louisville's climate, with its humid summers and freezing winters, can take a toll on your deck. Mr. Painterman's deck staining and sealing service is designed to protect your deck from the elements and keep it looking its best for years to come. We start by thoroughly cleaning your deck to remove dirt, mildew, and old stain or sealant. We then sand the deck to create a smooth surface for the new finish. We offer a variety of stains and sealants to choose from, including water-based and oil-based options. We use only high-quality products that are specifically formulated for outdoor use. Our experienced craftsmen apply multiple coats for maximum protection and a beautiful finish. We pay special attention to detail, ensuring that all cracks and crevices are properly sealed. We understand the common issues faced by Louisville homeowners, such as wood rot and insect damage. We offer specialized solutions to address these problems and protect your investment.",
+        "process": [
+          "Step 1: Thorough Cleaning & Preparation",
+          "Step 2: Sanding for Optimal Stain Penetration",
+          "Step 3: Application of High-Quality Stain",
+          "Step 4: Sealing for Weather Protection",
+          "Step 5: Final Inspection & Clean-up"
+        ],
+        "benefits": [
+          "Protection Against Weather Damage",
+          "Enhanced Deck Appearance",
+          "Prevention of Wood Rot and Decay",
+          "Increased Deck Lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How often should I stain and seal my deck?",
+            "answer": "Generally, you should stain and seal your deck every 1-3 years, depending on the type of wood, the quality of the stain or sealant, and the local weather conditions. Decks exposed to direct sunlight or harsh weather may need to be stained and sealed more frequently."
+          },
+          {
+            "question": "What is the difference between stain and sealant?",
+            "answer": "Stain adds color to the wood and provides some protection against the elements. Sealant provides a clear, protective coating that repels water and prevents wood rot. We recommend using both stain and sealant for maximum protection and beauty."
+          },
+          {
+            "question": "Do I need to remove my deck furniture before you start?",
+            "answer": "Yes, we ask that you remove all deck furniture before we begin the staining and sealing process. This will allow us to properly clean and prepare the surface."
+          }
+        ]
+      },
+      {
+        "slug": "wallpaper-removal",
+        "name": "Wallpaper Removal",
+        "shortDescription": "Remove outdated wallpaper quickly and efficiently with our professional service.",
+        "description": "Removing wallpaper can be a time-consuming and difficult task, especially in older Louisville homes where multiple layers may have been applied over the years. Mr. Painterman's wallpaper removal service takes the hassle out of this process, leaving you with clean, ready-to-paint walls. We start by carefully scoring the wallpaper to allow the removal solution to penetrate. We then apply a special solution that loosens the adhesive, making it easier to peel off the wallpaper. We use a variety of tools and techniques to remove the wallpaper without damaging the underlying drywall. We then thoroughly clean the walls to remove any remaining adhesive residue. We repair any damage to the drywall, such as holes or scratches. Finally, we prime the walls to create a smooth surface for painting. Our experienced craftsmen pay close attention to detail, ensuring a flawless result that is ready for a fresh coat of paint. We understand the challenges of removing wallpaper in Louisville's historic homes, such as dealing with delicate plaster walls and lead-based adhesives. We take all necessary precautions to ensure a safe and successful wallpaper removal project.",
+        "process": [
+          "Step 1: Scoring the Wallpaper",
+          "Step 2: Applying Removal Solution",
+          "Step 3: Peeling Off Wallpaper",
+          "Step 4: Removing Adhesive Residue",
+          "Step 5: Repairing Wall Damage & Priming"
+        ],
+        "benefits": [
+          "Saves Time & Effort",
+          "Prevents Wall Damage",
+          "Creates a Smooth Surface for Painting",
+          "Improved Home Aesthetics"
+        ],
+        "faq": [
+          {
+            "question": "How long does wallpaper removal take?",
+            "answer": "Wallpaper removal typically takes 1-3 days, depending on the size of the room and the number of layers of wallpaper. We'll provide a more accurate timeline during the initial consultation."
+          },
+          {
+            "question": "Will wallpaper removal damage my walls?",
+            "answer": "We take every precaution to minimize any damage to your walls during the wallpaper removal process. However, some minor damage is unavoidable. We'll repair any damage to the drywall before priming and painting."
+          },
+          {
+            "question": "Do I need to remove anything from the room before you start?",
+            "answer": "Yes, we ask that you remove all furniture and valuables from the room before we begin the wallpaper removal process. This will allow us to properly protect the area and prevent any damage to your belongings."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Louisville",
+        "slug": "louisville-ky",
+        "state": "KY",
+        "content": "Mr. Painterman is proud to offer professional painting services to the residents and businesses of Louisville, Kentucky. From historic homes in Old Louisville to modern constructions downtown, we have the expertise to handle any painting project. We understand the unique architectural styles and weather conditions in Louisville, ensuring a durable and beautiful finish that lasts. \n\nOur team of experienced painters uses only the highest quality paints and materials to deliver exceptional results. Whether you need interior painting, exterior painting, or cabinet refinishing, Mr. Painterman is committed to providing top-notch service and customer satisfaction in Louisville. We are dedicated to transforming your vision into reality, enhancing the beauty and value of your property.",
+        "localContext": "Louisville is known for its vibrant arts scene, bourbon distilleries, and the Kentucky Derby, all contributing to its unique character.",
+        "nearbyAreas": [
+          "Jeffersontown",
+          "St. Matthews",
+          "Shively"
+        ]
+      },
+      {
+        "city": "Jeffersontown",
+        "slug": "jeffersontown-ky",
+        "state": "KY",
+        "content": "Mr. Painterman provides expert painting services in Jeffersontown, Kentucky. We cater to both residential and commercial properties, offering interior and exterior painting solutions. We understand the specific needs of Jeffersontown homeowners and businesses, ensuring quality workmanship and attention to detail.\n\nOur team is committed to providing exceptional customer service and delivering results that exceed expectations. From color consultations to meticulous surface preparation, we ensure a flawless finish that enhances the beauty and value of your Jeffersontown property.",
+        "localContext": "Jeffersontown, often called J-Town, is a thriving community with a mix of residential neighborhoods and commercial centers.",
+        "nearbyAreas": [
+          "Louisville",
+          "Buechel",
+          "Middletown"
+        ]
+      },
+      {
+        "city": "St. Matthews",
+        "slug": "st-matthews-ky",
+        "state": "KY",
+        "content": "Mr. Painterman is dedicated to providing top-quality painting services in St. Matthews, Kentucky. We offer a full range of painting services, including interior and exterior painting, staining, and more. We understand the unique character of St. Matthews homes and businesses and strive to enhance their beauty with our expert painting services.\n\nOur team of experienced painters uses only the best paints and materials to ensure a long-lasting and beautiful finish. We are committed to providing exceptional customer service and exceeding your expectations in St. Matthews.",
+        "localContext": "St. Matthews is a vibrant city known for its shopping centers, restaurants, and historic neighborhoods.",
+        "nearbyAreas": [
+          "Louisville",
+          "Lyndon",
+          "Indian Hills"
+        ]
+      },
+      {
+        "city": "Shively",
+        "slug": "shively-ky",
+        "state": "KY",
+        "content": "Mr. Painterman is proud to serve the community of Shively, Kentucky, with professional painting services. We offer a wide range of services, including interior and exterior painting, power washing, and drywall repair. We understand the specific needs of Shively residents and businesses, ensuring quality workmanship and customer satisfaction.\n\nOur team is dedicated to providing exceptional service and delivering results that exceed expectations. From color consultations to meticulous surface preparation, we ensure a flawless finish that enhances the beauty and value of your Shively property.",
+        "localContext": "Shively is a city with a strong industrial history and a close-knit community.",
+        "nearbyAreas": [
+          "Louisville",
+          "Pleasure Ridge Park",
+          "Valley Station"
+        ]
+      },
+      {
+        "city": "Lyndon",
+        "slug": "lyndon-ky",
+        "state": "KY",
+        "content": "Mr. Painterman offers professional painting services to homeowners and businesses in Lyndon, Kentucky. Our services include interior and exterior painting, staining, and minor repairs. We understand the architectural styles and needs of Lyndon properties, ensuring a high-quality and durable finish.\n\nWe use only premium paints and materials to deliver exceptional results. Our team is dedicated to providing excellent customer service and exceeding your expectations in Lyndon. We take pride in transforming your space and enhancing its beauty.",
+        "localContext": "Lyndon is a residential community known for its parks and family-friendly atmosphere.",
+        "nearbyAreas": [
+          "St. Matthews",
+          "Hurstbourne",
+          "Anchorage"
+        ]
+      },
+      {
+        "city": "Middletown",
+        "slug": "middletown-ky",
+        "state": "KY",
+        "content": "Mr. Painterman is committed to providing top-notch painting services in Middletown, Kentucky. We offer a comprehensive range of services, including interior and exterior painting, deck staining, and pressure washing. We understand the unique needs of Middletown residents and businesses, ensuring quality workmanship and customer satisfaction.\n\nOur team is dedicated to providing exceptional service and delivering results that exceed expectations. From color consultations to meticulous surface preparation, we ensure a flawless finish that enhances the beauty and value of your Middletown property.",
+        "localContext": "Middletown is a historic town with a mix of old and new homes, known for its community events and local businesses.",
+        "nearbyAreas": [
+          "Jeffersontown",
+          "Anchorage",
+          "Douglass Hills"
+        ]
+      },
+      {
+        "city": "Anchorage",
+        "slug": "anchorage-ky",
+        "state": "KY",
+        "content": "Mr. Painterman is pleased to offer premium painting services to the residents of Anchorage, Kentucky. We specialize in both interior and exterior painting, with a focus on quality and attention to detail. We understand the unique architectural styles and high standards of Anchorage homes, ensuring a flawless and elegant finish.\n\nOur team uses only the finest paints and materials to deliver exceptional results. We are committed to providing personalized service and exceeding your expectations in Anchorage. We take pride in enhancing the beauty and value of your prestigious property.",
+        "localContext": "Anchorage is an affluent residential area known for its large estates, wooded landscapes, and top-rated schools.",
+        "nearbyAreas": [
+          "Middletown",
+          "Lyndon",
+          "Pewee Valley"
+        ]
+      },
+      {
+        "city": "Valley Station",
+        "slug": "valley-station-ky",
+        "state": "KY",
+        "content": "Mr. Painterman is dedicated to providing reliable and affordable painting services to the community of Valley Station, Kentucky. We offer a wide range of services, including interior and exterior painting, drywall repair, and power washing. We understand the needs of Valley Station homeowners and businesses, ensuring quality workmanship and customer satisfaction.\n\nOur team is committed to providing exceptional service and delivering results that exceed expectations. From color consultations to meticulous surface preparation, we ensure a flawless finish that enhances the beauty and value of your Valley Station property.",
+        "localContext": "Valley Station is a suburban community located in southwestern Louisville, known for its friendly atmosphere and affordable housing.",
+        "nearbyAreas": [
+          "Shively",
+          "Pleasure Ridge Park",
+          "Dixie Highway"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Interior Painting",
+        "text": "Mr. Painterman's team did an incredible job painting the interior of my home in St. Matthews. They were professional, efficient, and the quality of their work was outstanding. I highly recommend them!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Exterior Painting",
+        "text": "We hired Mr. Painterman to paint our house in the Highlands. The prep work was thorough, and the final result was beautiful. They even helped us choose the perfect color palette. A few minor touch-ups were needed, but they were quick to respond and resolve the issue.",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 5,
+        "service": "Cabinet Refinishing",
+        "text": "I was amazed at how Mr. Painterman transformed my outdated kitchen cabinets. The refinishing service saved me a ton of money compared to replacing them, and they look brand new! They were very careful and respectful of my home.",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "Tom B.",
+        "rating": 5,
+        "service": "Drywall Repair",
+        "text": "After a water leak, we had significant drywall damage. Mr. Painterman's team repaired and repainted the area seamlessly. You can't even tell there was ever a problem. I was very impressed with their expertise and attention to detail.",
+        "date": "2024-08-12"
+      },
+      {
+        "name": "Emily S.",
+        "rating": 4,
+        "service": "Deck Staining & Sealing",
+        "text": "Mr. Painterman did a great job staining and sealing our deck. The deck looks fantastic, and I'm confident it will be protected from the elements for years to come. The only reason for 4 stars is that the project took a little longer than originally estimated.",
+        "date": "2024-07-20"
+      },
+      {
+        "name": "Robert L.",
+        "rating": 5,
+        "service": "Wallpaper Removal",
+        "text": "I had been putting off removing the old wallpaper in my dining room for years. Mr. Painterman made the process quick and easy. They were professional, efficient, and left the walls perfectly smooth and ready for painting. Excellent service!",
+        "date": "2024-06-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Mr. Painterman | Louisville, KY",
+        "description": "Trusted house painter in Louisville. Interior, exterior, cabinets, drywall, decks. Free quotes. Call +15029745533."
+      },
+      "about": {
+        "title": "About Mr. Painterman | Louisville, KY",
+        "description": "Learn about Mr. Painterman's history, values, and commitment to the Louisville community. Expert painting services."
+      },
+      "services": {
+        "title": "Painting Services | Louisville, KY",
+        "description": "Mr. Painterman offers interior, exterior, cabinet refinishing, drywall repair, deck staining, and wallpaper removal services in Louisville, KY."
+      },
+      "contact": {
+        "title": "Contact Mr. Painterman | Louisville, KY",
+        "description": "Contact Mr. Painterman for a free quote on your next painting project in Louisville. Call +15029745533 or fill out our online form."
+      },
+      "reviews": {
+        "title": "Mr. Painterman Reviews | Louisville, KY",
+        "description": "Read reviews from satisfied Mr. Painterman customers in Louisville. Quality painting services and exceptional customer care."
+      },
+      "service-areas": {
+        "title": "Service Areas | Mr. Painterman",
+        "description": "Mr. Painterman provides painting services across Louisville and surrounding Kentucky communities. View our service area map."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "interior-painting": "/images/service-interior-painting.webp",
+      "exterior-painting": "/images/service-exterior-painting.webp",
+      "cabinet-refinishing": "/images/service-cabinet-refinishing.webp",
+      "drywall-repair": "/images/service-drywall-repair.webp",
+      "deck-staining-sealing": "/images/service-deck-staining-sealing.webp",
+      "wallpaper-removal": "/images/service-wallpaper-removal.webp"
+    },
+    "servicesResponsive": {
+      "interior-painting": {
+        "src": "/images/service-interior-painting.webp",
+        "srcset": "/images/service-interior-painting-400w.webp 400w, /images/service-interior-painting-800w.webp 800w, /images/service-interior-painting-1200w.webp 1200w, /images/service-interior-painting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "exterior-painting": {
+        "src": "/images/service-exterior-painting.webp",
+        "srcset": "/images/service-exterior-painting-400w.webp 400w, /images/service-exterior-painting-800w.webp 800w, /images/service-exterior-painting-1200w.webp 1200w, /images/service-exterior-painting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "cabinet-refinishing": {
+        "src": "/images/service-cabinet-refinishing.webp",
+        "srcset": "/images/service-cabinet-refinishing-400w.webp 400w, /images/service-cabinet-refinishing-800w.webp 800w, /images/service-cabinet-refinishing-1200w.webp 1200w, /images/service-cabinet-refinishing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drywall-repair": {
+        "src": "/images/service-drywall-repair.webp",
+        "srcset": "/images/service-drywall-repair-400w.webp 400w, /images/service-drywall-repair-800w.webp 800w, /images/service-drywall-repair-1200w.webp 1200w, /images/service-drywall-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-staining-sealing": {
+        "src": "/images/service-deck-staining-sealing.webp",
+        "srcset": "/images/service-deck-staining-sealing-400w.webp 400w, /images/service-deck-staining-sealing-800w.webp 800w, /images/service-deck-staining-sealing-1200w.webp 1200w, /images/service-deck-staining-sealing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "wallpaper-removal": {
+        "src": "/images/service-wallpaper-removal.webp",
+        "srcset": "/images/service-wallpaper-removal-400w.webp 400w, /images/service-wallpaper-removal-800w.webp 800w, /images/service-wallpaper-removal-1200w.webp 1200w, /images/service-wallpaper-removal.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
